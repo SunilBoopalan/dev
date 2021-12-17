@@ -1,3 +1,3 @@
 
 
-[![Simp Bot](https://img.shields.io/badge/Simp-Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
+[![Simp Bot](https://img.shields.io/badge/SimpBot-7289DA?style=for-the-badge&logo=discord&logoColor=white)]
